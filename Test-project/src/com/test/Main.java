@@ -3,5 +3,6 @@ package com.test;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Test line :1");
+        System.out.println("Test line from origin master :2");
     }
 }
